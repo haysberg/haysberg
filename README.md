@@ -1,16 +1,14 @@
-### Hi there 👋
+```rust
+✨println!("{}", "✨ Howdy partner ✨");
+```
 
-<!--
-**haysberg/haysberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm currently working at the [**INRIA**](https://en.wikipedia.org/wiki/French_Institute_for_Research_in_Computer_Science_and_Automation "French Institute for Research in Computer Science and Automation") (French Institute for Research in Computer Science and Automation). My job consists of working on different project in Networking and Software Engineering.
 
-Here are some ideas to get you started:
+## Education
+*🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*🎓
+
+*🎓
+
+Please find my most important projects down below 👇
