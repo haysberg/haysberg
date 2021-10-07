@@ -2,9 +2,9 @@
 ✨println!("{}", "✨ Howdy partner ✨");
 ```
 ## 🔎 Who am I ?
-👉 My name is Téo Haÿs, I'm a 21 y/o French boy. I'm passionate about Technology, League of Legends and Politics !
-📧 Contact me here : teo.hays@inria.fr
-👉 I'm currently working at the [**INRIA**](https://en.wikipedia.org/wiki/French_Institute_for_Research_in_Computer_Science_and_Automation "French Institute for Research in Computer Science and Automation") (French Institute for Research in Computer Science and Automation). My job consists of working on different project in Networking and Software Engineering.
+- 👉 My name is Téo Haÿs, I'm a 21 y/o French boy. I'm passionate about Technology, League of Legends and Politics !
+- 📧 Contact me here : teo.hays@inria.fr
+- 👉 I'm currently working at the [**INRIA**](https://en.wikipedia.org/wiki/French_Institute_for_Research_in_Computer_Science_and_Automation "French Institute for Research in Computer Science and Automation") (French Institute for Research in Computer Science and Automation). My job consists of working on different project in Networking and Software Engineering.
 
 ## 👔 Work experience
 - (2021 - 2023) - INRIA, Sophia Antipolis, France - Research Apprentice
