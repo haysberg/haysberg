@@ -5,9 +5,9 @@ My name is Téo Haÿs, I'm a 22 y/o French boy. I'm passionate about Technology 
 
 You can find useful links about me on [my blog](https://ring0.haysberg.io/)
 
-## ☕ Previous projects
-- (2021 - 2023) - INRIA, Sophia Antipolis, France - Research Apprentice
-*Currently working on a deployment tool for Docker on the Rhubarbe platform, made with* ❤️ *& Rust* ⚙️
+## ☕ Projects
+- (2021 - 2022) - INRIA, Sophia Antipolis, France - Research Apprentice
+*Worked on [baleine](https://github.com/haysberg/baleine), a deployment tool for Docker on the [R2Lab](https://r2lab.inria.fr/index.md) platform, made with* ❤️ *& Rust* ⚙️
 - (Jan 2019 - Aug 2020) Citrix Systems Inc., Dublin, Ireland - Networking Support Engineer / Virtualization Support Engineer.
 *ADC (formerly NetScaler), Virtual Apps & Desktops (formerly XenDesktop / XenApp), Citrix Gateway*
 - (Mar 2018 - Jul 2018) Universiti Kuala Lumpur, Malaysia - Cloud & Networking Intern
