@@ -3,9 +3,9 @@ println!("{}", "✨ Howdy partner ✨");
 ```
 My name is Téo Haÿs, I'm a French boy from the last millenia. The technologies I'm interested in right now are mostly Rust, Linux and pretty much everything related to CyberSec or DevOps.
 
-You can find useful links about me on [my blog](https://ring0.haysberg.io/)
+You can find useful links about me on [haysberg.io](https://haysberg.io/)
 
-## ☕ Projects
+## ☕ Previous jobs
 - (2022 - 2023) - Orange, Sophia Antipolis, France - DevSecOps Apprentice - *Pentest, Code auditing & Kubernetes deployments*
 - (2021 - 2022) - INRIA, Sophia Antipolis, France - Research Apprentice - *Worked on [baleine](https://github.com/haysberg/baleine), a deployment tool for Docker on the [R2Lab](https://r2lab.inria.fr/index.md) platform, made with* ❤️ *& Rust* ⚙️
 - (Jan 2019 - Aug 2020) Citrix Systems Inc., Dublin, Ireland - Networking Support Engineer / Virtualization Support Engineer.
