@@ -1,7 +1,8 @@
-```rust
-println!("{}", "✨ Howdy partner ✨");
+```py
+print(f"✨ Howdy partner ✨")
 ```
-My name is Téo Haÿs, I'm a French boy from the last millenia. The technologies I'm interested in right now are mostly Rust, Linux and pretty much everything related to CyberSec or DevOps.
+
+My name is Téo Haÿs, I'm a French boy from the last millenia. The technologies I'm interested in right now are mostly Python, Linux and pretty much everything related to DevOps & Pentesting.
 
 You can find useful links about me on [haysberg.io](https://haysberg.io/)
 
