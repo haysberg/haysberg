@@ -2,9 +2,11 @@
 print(f"✨ Howdy partner ✨")
 ```
 
-My name is Téo Haÿs, I'm a French boy from the last millenia. The technologies I'm interested in right now are mostly Python, Linux and pretty much everything related to DevOps & Pentesting.
+My name is Téo, I'm a French boy from the last millenia. The technologies I'm interested in right now are mostly Python, Linux and pretty much everything related to DevOps & Pentesting.
 
 You can find useful links about me on [haysberg.io](https://haysberg.io/)
+
+I currently work as a DevOps / SRE Engineer [@Veesion](https://veesion.io/) where I fiddle with ArgoCD, Kubernetes, Terraform and Ansible.
 
 ## ☕ Previous jobs
 - (2023 - Feb 2025) - DevSecOps Engineer [@Ziosting](https://www.ziosting.com/) - Creating internal infra tools using Python, Ansible, Helm and Kubernetes.
